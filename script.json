@@ -9,7 +9,8 @@
     "DONE": "DONE",
     "MORE": "Ok, here's other stuff to check out.%[Childhood](postback:childhood) %[Education](postback:education) %[The Future](postback:the_future)\nOr, maybe you'd like to know more about the bot or to directly talk to Mike...%[I'm here for the bot](postback:here_for_the_bot) %[Contact to Mike](postback:contact_to_mike)",
     "CONTACT TO MIKE": "Here you can compose a mail to him. Don't be shy!%[Write a mail](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=jwc911037@gmail.com)\nWell...it's time for me to leave you and Mike alone now!\nOnce you want me back, just say MIKEBOT BACK.%[MikeBot Back](postback:mikebot_back)",
-    "<3": "<3",
-    ":)": ":)",
+    "<3": "I love you too <3",
+    ":)": "Have nice day, do you? :)",
+    ":'(": "It will be better :'(",
     "MIKEBOT BACK": "Roger that, MikeBot is back!"
 }
