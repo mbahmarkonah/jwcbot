@@ -1,0 +1,17 @@
+{
+    "BOT": "Hi, I am the personal bot of Mike Cheng, a student in Taiwan National University of Kaohsiung.\n![mike](https://raw.githubusercontent.com/jwc911037/jwcbot/master/img/Mike.PNG)\nWant to know more about the bot; or learn about Mike? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Mike](postback:learn_about_mike) %[One random fact!](postback:random_fact)",
+    "I'M HERE FOR THE BOT": "MikeBot",
+    "LEARN ABOUT MIKE": "No problem!\nI can tell you a bunch of stuff about Mike. Let me know what’s interesting to you. %[Childhood](postback:childhood) %[Education](postback:education) %[The Future](postback:the_future)",
+    "CHILDHOOD": "Mike was born in Tainan, a prosperous and bustling city with many delicious snacks and historical sites.\n![tainan](https://raw.githubusercontent.com/jwc911037/jwcbot/master/img/tainacity.png)\n%[Wow! Nice City!](postback:nice_city)",
+    "WOW! NICE CITY!": "I agree ^_^",
+    "EDUCATION": "Education",
+    "THE FUTURE": "The Future",
+    "DONE": "DONE",
+    "MORE": "Ok, here's other stuff to check out.%[Childhood](postback:childhood) %[Education](postback:education) %[The Future](postback:the_future)\nOr, maybe you'd like to know more about the bot or to directly talk to Mike...%[I'm here for the bot](postback:here_for_the_bot) %[Contact to Mike](postback:contact_to_mike)",
+    "CONTACT TO MIKE": "Here you can compose a mail to him. Don't be shy! [Write a mail](mailto:jwc911037@gmail.com)\nWell...it's time for me to leave you and Mike alone now!\nOnce you want me back, just say MIKEBOT BACK.%[MikeBot Back](postback:mikebot_back)",
+    "<3": "<3",
+    ":)": ":)",
+    "CONNECT": "",
+    "DISCONNECT": "Roger that, MikeBot is back!",
+    "MIKEBOT BACK": "Roger that, MikeBot is back!"
+}
