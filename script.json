@@ -11,7 +11,5 @@
     "CONTACT TO MIKE": "Here you can compose a mail to him. Don't be shy! [Write a mail](mailto:jwc911037@gmail.com)\nWell...it's time for me to leave you and Mike alone now!\nOnce you want me back, just say MIKEBOT BACK.%[MikeBot Back](postback:mikebot_back)",
     "<3": "<3",
     ":)": ":)",
-    "CONNECT": "",
-    "DISCONNECT": "Roger that, MikeBot is back!",
     "MIKEBOT BACK": "Roger that, MikeBot is back!"
 }
