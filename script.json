@@ -18,5 +18,6 @@
     ":)": "Have nice day, do you? :)",
     ":'(": "It will be better :'(",
     ":P": "You are so naughty :P",
-    "MIKEBOT BACK": "Roger that, MikeBot is back!"
+    "MIKEBOT BACK": "Roger that, MikeBot is back!",
+    "REBOOT": "So you want to know more about MikeBot? Just say BOT to wake me up :) %[BOT](postback:bot)"
 }
