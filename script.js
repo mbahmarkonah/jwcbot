@@ -44,7 +44,7 @@ module.exports = new Script({
                 }
 
                 if (!_.has(scriptRules, upperText)) {
-                    return bot.say(`So, I'm good at structured conversations but some stickers, emoji and sentences still confuse me :'(\nSay MORE to chat about something else.%[More](postback:more)`).then(() => 'speak');
+                    return bot.say(`So, I'm good at structured conversations but some stickers, emoji and sentences still confuse me :'(\nSay GOT IT to chat about something else.%[Got it](postback:got_it)`).then(() => 'speak');
                 }
 
                 var response = scriptRules[upperText];
