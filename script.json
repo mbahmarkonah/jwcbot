@@ -3,7 +3,7 @@
     "I'M HERE FOR THE BOT": "MikeBot",
     "LEARN ABOUT MIKE": "No problem!\nI can tell you a bunch of stuff about Mike. Let me know what’s interesting to you. %[Childhood](postback:childhood) %[Education](postback:education) %[The Future](postback:the_future)",
     "CHILDHOOD": "Mike was born in Tainan, a prosperous and bustling city with many delicious snacks and historical sites.\n![tainan](https://raw.githubusercontent.com/jwc911037/jwcbot/master/img/tainacity.png)\n%[Wow! Nice City!](postback:nice_city)",
-    "WOW! NICE CITY!": "I agree ^_^",
+    "WOW! NICE CITY!": "His dad and mom are teachers, so they usually treated him as their student, like learning something, being polite to others...blablabla\nHowever, this student may do something naughty \"after class\" :P\n Now I also remember Mike has a interesting experience when he went to kindergarten.%[Really? I want more details](postback:more_detail)",
     "EDUCATION": "Education",
     "THE FUTURE": "The Future",
     "DONE": "DONE",
