@@ -26,7 +26,7 @@ module.exports = new Script({
             function updateSilent() {
                 switch (upperText) {
                     case "CONTACT TO MIKE":
-                        return bot.setProp("silent", true);
+                        return bot.setProp("silent", false);
                     case "MIKEBOT BACK":
                         return bot.setProp("silent", false);
                     default:
