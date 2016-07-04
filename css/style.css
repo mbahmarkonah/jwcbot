@@ -6,11 +6,11 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 --*/
 @font-face {
     font-family: 'Nunito-Bold';
-    src:url(../fonts/Nunito-Bold.ttf) format('truetype');
+    src:url(https://raw.githubusercontent.com/jwc911037/jwcbot/master/fonts/Nunito-Bold.ttf) format('truetype');
 }
 @font-face {
     font-family: 'OpenSans-Regular';
-    src:url(../fonts/OpenSans-Regular.ttf) format('truetype');
+    src:url(https://raw.githubusercontent.com/jwc911037/jwcbot/master/fonts/OpenSans-Regular.ttf) format('truetype');
 }
 body a{
     transition:0.5s all;
@@ -199,38 +199,6 @@ font-size: 2em;
   text-align: center;
 }
 
-i.facebook {
-  width: 64px;
-  height: 64px;
-  background: url(../images/img-sprite.png)no-repeat 0px 0px;
-  float: left;
-  vertical-align: middle;
-    margin: 0 10px;
-}
-i.twitter{
-   width: 64px;
-  height: 64px;
-  background: url(../images/img-sprite.png)no-repeat -64px 0px;
-  float: left;
-  vertical-align: middle;
-    margin: 0 10px;
-}
-i.google {
-   width: 64px;
-  height: 64px;
-  background: url(../images/img-sprite.png)no-repeat -128px 0px;
-  float: left;
-  vertical-align: middle;
-    margin: 0 10px;
-}
-i.beh {
-  width: 64px;
-  height: 64px;
-  background: url(../images/img-sprite.png)no-repeat -192px 0px;
-  float: left;
-  vertical-align: middle;
-    margin: 0 10px;
-}
 .contact-section {
   padding: 4em 0;
   background: #deecdf;
@@ -325,7 +293,7 @@ i.beh {
 	height: 48px;
 	border: none;
 	text-indent: 100%;
-	background: url("../images/to-top2.png") no-repeat 0px 0px;
+	background: url("https://raw.githubusercontent.com/jwc911037/jwcbot/master/img/to-top2.png") no-repeat 0px 0px;
 }
 /*-- responsive-design --*/
 @media only screen and (max-width:1024px) {
